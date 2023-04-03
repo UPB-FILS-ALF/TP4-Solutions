@@ -1,0 +1,18 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+WS=6
+VARIABLE=7
+EQUALS=8
+BOOLEAN_VALUE=9
+INT_VALUE=10
+FLOAT_VALUE=11
+STRING_VALUE=12
+';'=1
+'String '=2
+'boolean '=3
+'int'=4
+'float'=5
+'='=8
